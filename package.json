@@ -1,0 +1,22 @@
+{
+  "name": "node.js.-coding-ninjas",
+  "version": "1.4.2",
+  "description": "This is the node.js learning track ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrOdutta/Node.js.-Coding-Ninjas.git"
+  },
+  "author": "Skorp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrOdutta/Node.js.-Coding-Ninjas/issues"
+  },
+  "homepage": "https://github.com/mrOdutta/Node.js.-Coding-Ninjas#readme",
+  "dependencies": {
+    "node": "^20.6.0"
+  }
+}
